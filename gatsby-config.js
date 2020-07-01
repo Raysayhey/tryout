@@ -11,7 +11,7 @@ module.exports = {
         siteUrl: `https://block-lab.ch`,
         siteName: `block lab webseite`,
         siteShortName: `BL`,
-        siteDescription: `This cool App contains information about work`,
+        siteDescription: `Block Lab Zürich, Webseiten und mobile Apps Produktion.`,
         siteKeywords: `Application developer, Full Stack Developer, Front-end, mobile apps, zürich, webseiten`,
         useMozJpeg: true,
         menuLinks: [
@@ -48,7 +48,7 @@ module.exports = {
             `Wir sind an den neusten Technologien interessiert 💎`,
             `Wir machen auch Design mit <span style='color: #27ae60;'> Figma</span>`,
             `Wir entwickeln mobile Apps mit <span style='color: #4a8ae2;'> Flutter</span>`,
-            `Wir lieben ☁️ Backend`,
+            `Wir leben ☁️ Backend`,
 
             
             // `I think one of my values is the <strong>ability to find solutions to problems<strong>`,
