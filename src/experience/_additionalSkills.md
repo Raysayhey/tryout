@@ -12,6 +12,9 @@ skills:
     { title: "Redux", image: ../images/skills/redux.png },
     { title: "Apollo GraphQL", image: ../images/skills/apollo.png },
     { title: "Socket.io", image: ../images/skills/socket-io.png },
+    { title: "Premiere Pro", image: ../images/skills/ado_pr.png },
+    { title: "After Effects", image: ../images/skills/adobe_afterE.jpeg },
+
   ]
 images: []
 dateFrom: "2019-09-04"

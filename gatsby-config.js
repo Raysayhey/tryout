@@ -7,12 +7,12 @@ module.exports = {
         path: `src/`,
         imagesPath: `src/images/`,
         iconFile: `src/images/icon.png`,
-        siteTitle: `Software developer CV Martin Andersen`,
-        siteUrl: `https://martin-andersen.netlify.app`,
-        siteName: `Martin Andersen developer portfolio | @webmaeistro`,
-        siteShortName: `MA`,
-        siteDescription: `This cool App contains information about my work experience as a software developer.`,
-        siteKeywords: `Application developer, Full Stack Developer, Front-end`,
+        siteTitle: `Block-Lab.ch`,
+        siteUrl: `https://block-lab.ch`,
+        siteName: `block lab webseite`,
+        siteShortName: `BL`,
+        siteDescription: `This cool App contains information about work`,
+        siteKeywords: `Application developer, Full Stack Developer, Front-end, mobile apps, zürich, webseiten`,
         useMozJpeg: true,
         menuLinks: [
           // title = Link text
@@ -20,36 +20,41 @@ module.exports = {
           { name: `home`, title: `Home`, color: `#000`, link: `` },
           {
             name: `experience`,
-            title: `Experience`,
+            title: `Arbeit`,
             color: `#3a3d98`,
             link: ``,
           },
           { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
-          { name: `aboutMe`, title: `About Me`, color: `#fff`, link: `` },
+          { name: `about`, title: `Über uns`, color: `#fff`, link: `` },
         ],
-        email: `marander@protonmail.com`,
+        email: `info@block-lab.ch`,
         social: {
           // Usernames
-          twitter: `webmaeistro`,
+           twitter: `webmaeistro`,
+          //  Discord: ``,
           gitHub: `webmaeistro`,
           stackOverflow: `/`,
-          linkedIn: `in/martin-andersen`,
+          linkedIn: `in/raymond-lotmar`,
           resumeInPdf: `/CV-20.pdf`, // url or local link
         },
         homePage: {
           availableToHire: true,
           dotColors: ["#0e3e1e", "#6CC551"],
-          h1Text: `Hi!, I'm Martin Andersen`,
-          h2Text: `I'm a fullstack developer + designer ("unicorn"), based out of Horten, Norway, who loves to make threejs + p5js WEBGL 3D animations. And blazing fast websites I have
-              worked as a software developer since 2011.`,
+          h1Text: `Block Lab`,
+          h2Text: `Wir entwickeln Webseiten und mobile Apps`,
           typewriter: [
-            `Coding is my passion 😎`,
-            `I'm a 🍕 lover`,
-            `I'm a fast learner and always interested in learning new technologies 🤓`,
-            `I think one of my values is the <strong>ability to find solutions to problems<strong>`,
-            `I like to share what I know 👨‍🏫`,
-            `In my non-coding hours, I'm a electro IoT nerd and a family man.`,
-            `I also do design and UX work <span style='color: #27ae60;'>using Figma.com</span>`,
+            `Das Internet ist unsere Passion 🦋`,
+            `Wir lieben 🍕`,
+            `Wir sind an den neusten Technologien interessiert 💎`,
+            `Wir machen auch Design mit <span style='color: #27ae60;'> Figma</span>`,
+            `Wir entwickeln mobile Apps mit <span style='color: #4a8ae2;'> Flutter</span>`,
+            `Wir lieben ☁️ Backend`,
+
+            
+            // `I think one of my values is the <strong>ability to find solutions to problems<strong>`,
+            // `I like to share what I know 👨‍🏫`,
+            // `In my non-coding hours, I'm a electro IoT nerd and a family man.`,
+           
           ],
         },
         // Color for menu background
@@ -59,6 +64,7 @@ module.exports = {
             color: `#413f46`,
             opacity: `0.7`,
           },
+          
           shape2: {
             color: `#e6e5ea`,
             opacity: `0.7`,
