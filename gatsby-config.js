@@ -46,9 +46,10 @@ module.exports = {
             `Das Internet ist unsere Passion 🦋`,
             `Wir lieben 🍕`,
             `Wir sind an den neusten Technologien interessiert 💎`,
-            `Wir machen auch Design mit <span style='color: #27ae60;'> Figma</span>`,
+            `Wir machen Design mit <span style='color: #27ae60;'> Figma</span>`,
             `Wir entwickeln mobile Apps mit <span style='color: #4a8ae2;'> Flutter</span>`,
             `Wir leben ☁️ Backend`,
+            `Wir bauen Webseiten ab 800.- 💰`
 
             
             // `I think one of my values is the <strong>ability to find solutions to problems<strong>`,
