@@ -9,7 +9,7 @@ module.exports = {
         iconFile: `src/images/icon.png`,
         siteTitle: `Block-Lab.ch`,
         siteUrl: `https://block-lab.ch`,
-        siteName: `block lab webseite`,
+        siteName: `block lab`,
         siteShortName: `BL`,
         siteDescription: `Block Lab Zürich, Webseiten und mobile Apps Produktion.`,
         siteKeywords: `Application developer, Full Stack Developer, Front-end, mobile apps, zürich, webseiten`,
@@ -26,6 +26,7 @@ module.exports = {
           },
           { name: `skills`, title: `Skills`, color: `#d52d43`, link: `` },
           { name: `about`, title: `Über uns`, color: `#fff`, link: `` },
+          { name: `alt-med`, title: `Alt-Med`, color: `#fff`, link: `https://www.alt-med.ch/` },
         ],
         email: `info@block-lab.ch`,
         social: {
