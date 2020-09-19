@@ -10,7 +10,7 @@ module.exports = {
         siteTitle: `Block-Lab.ch`,
         siteUrl: `https://block-lab.ch`,
         siteName: `block lab`,
-        siteShortName: `BL`,
+        siteShortName: `Block`,
         siteDescription: `Block Lab Zürich, Webseiten und mobile Apps Produktion.`,
         siteKeywords: `Application developer, Full Stack Developer, Front-end, mobile apps, zürich, webseiten`,
         useMozJpeg: true,
@@ -31,12 +31,12 @@ module.exports = {
         email: `info@block-lab.ch`,
         social: {
           // Usernames
-           twitter: `webmaeistro`,
-          //  Discord: ``,
-          gitHub: `webmaeistro`,
-          stackOverflow: `/`,
+          //  twitter: `webmaeistro`,
+          // //  Discord: ``,
+          // gitHub: `webmaeistro`,
+          // stackOverflow: `/`,
           linkedIn: `in/raymond-lotmar`,
-          resumeInPdf: `/CV-20.pdf`, // url or local link
+          // resumeInPdf: `/CV-20.pdf`, // url or local link
         },
         homePage: {
           availableToHire: true,
