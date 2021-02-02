@@ -54,7 +54,7 @@ images:
     },
     {
       title: "Cloud Backend",
-      description: "Wir 🧡 CMS & ☁️",
+      description: "🧡  ☁️",
       layout: "3",
       files:
         [
