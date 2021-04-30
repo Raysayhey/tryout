@@ -44,14 +44,12 @@ module.exports = {
           h1Text: `Block Lab`,
           h2Text: `Wir entwickeln Webseiten und mobile Apps`,
           typewriter: [
-            `Das Internet ist unsere Passion 🦋`,
-            `Wir lieben 🍕`,
             `Wir sind an den neusten Technologien interessiert 💎`,
+            `Das Internet ist unser Ding ⚙️`,
             `Wir machen Design mit <span style='color: #27ae60;'> Figma</span>`,
+            `Wir lieben 🍕`,
             `Wir entwickeln mobile Apps mit <span style='color: #4a8ae2;'> Flutter</span>`,
-            `Wir leben ☁️ Backend`,
-            `Wir bauen Webseiten ab 800.- 💰`
-
+            `Wir leben ☁️ Backend`
             
             // `I think one of my values is the <strong>ability to find solutions to problems<strong>`,
             // `I like to share what I know 👨‍🏫`,

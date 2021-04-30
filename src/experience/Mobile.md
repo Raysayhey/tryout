@@ -117,8 +117,8 @@ images:
     #     ],
     # },
   ]
-dateFrom: "2019-10-01"
-dateTo: "2020-09-09"
+dateFrom: "2019"
+dateTo: "2021"
 ---
 <!-- 
 - Responsible for the analysis, design and programming of the mobile application in Objective C for iOS

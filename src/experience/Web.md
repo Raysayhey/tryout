@@ -96,8 +96,8 @@ images:
     #     ],
     # },
   ]
-dateFrom: "2020-02-02"
-dateTo: "2020-06-01"
+dateFrom: "2019"
+dateTo: "2021"
 ---
 
 <!-- Atlassian Expert.
